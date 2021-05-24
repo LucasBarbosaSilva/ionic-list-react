@@ -1,0 +1,15 @@
+.container {
+    background-color: '#000';
+    margin-top: 30;
+
+    display: flex;
+    justify-content: center;
+
+    text-align: center;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    
+}
